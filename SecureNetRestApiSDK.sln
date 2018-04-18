@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureNetRestApiSDK", "SecureNetRestApiSDK\SecureNetRestApiSDK.csproj", "{06162613-960B-4949-9617-6DB96CF4B325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureNetRestApiSDK_UnitTest", "SecureNetRestApiSDK_UnitTest\SecureNetRestApiSDK_UnitTest.csproj", "{8BDC56BB-E677-456F-90B8-1A918BD3836E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNET.Core", "SNET.Core\SNET.Core.csproj", "{773C5633-1029-4F1B-A6A4-42BC3274AAC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureNetRestApiSDKClient", "SecureNetRestApiSDKClient\SecureNetRestApiSDKClient.csproj", "{5374AE6D-DFA1-4877-956B-1AD5D543EA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06162613-960B-4949-9617-6DB96CF4B325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06162613-960B-4949-9617-6DB96CF4B325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06162613-960B-4949-9617-6DB96CF4B325}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{06162613-960B-4949-9617-6DB96CF4B325}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC56BB-E677-456F-90B8-1A918BD3836E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC56BB-E677-456F-90B8-1A918BD3836E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC56BB-E677-456F-90B8-1A918BD3836E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC56BB-E677-456F-90B8-1A918BD3836E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{773C5633-1029-4F1B-A6A4-42BC3274AAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773C5633-1029-4F1B-A6A4-42BC3274AAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773C5633-1029-4F1B-A6A4-42BC3274AAC4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{773C5633-1029-4F1B-A6A4-42BC3274AAC4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5374AE6D-DFA1-4877-956B-1AD5D543EA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5374AE6D-DFA1-4877-956B-1AD5D543EA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5374AE6D-DFA1-4877-956B-1AD5D543EA73}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5374AE6D-DFA1-4877-956B-1AD5D543EA73}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
